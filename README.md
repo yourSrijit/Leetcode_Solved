@@ -11,8 +11,3 @@ I am Srijit Bera.......😉
 ECE Student || Learner || Coding Enthusiast...☕
 
 
-## Questions
-
-#### Get all items
-
-```https://leetcode.com/problemset/all/
