@@ -1,6 +1,6 @@
 class Solution {
     public static boolean isAlpha(char s) {
-        if ((s >= 'a' && s <= 'z') || (s >= 'A' && s <= 'Z')) {
+        if((s>=65 && s<=90) || (s>=97 && s<=122)) {
             return true;
         }
         return false;
