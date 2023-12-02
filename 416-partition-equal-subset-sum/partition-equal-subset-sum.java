@@ -9,7 +9,7 @@ class Solution {
             for(int j=1;j<=tar;j++){
                 int cur=arr[i-1];
                 if(cur<=j){
-                    dp[i][j]=dp[i-1][j-cur] ||dp[i-1][j] ;
+                    dp[i][j]=dp[i-1][j-cur]|| dp[i-1][j] ;
                 }
                 else{
                     dp[i][j]=dp[i-1][j];
