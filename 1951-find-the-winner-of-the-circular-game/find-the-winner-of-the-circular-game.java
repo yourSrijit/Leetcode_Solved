@@ -18,6 +18,6 @@ class Solution {
             it.remove();
         }
         
-        return list.getFirst();
+        return list.get(0);
     }
 }
