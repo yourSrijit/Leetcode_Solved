@@ -18,9 +18,7 @@
 // }
 class Solution {
     public int rob(int[] nums) {
-        if (nums.length == 0) {
-            return 0;
-        } else if (nums.length == 1) {
+       if (nums.length <2) {
             return nums[0];
         }
         
