@@ -16,13 +16,7 @@ class Solution {
             }
 
         }
-        if(res[0]!=-1 && res[1]!=-1){
-            return res;
-        }
-        else{
-       Arrays.fill(res,-1);
+      
        return res;
-        }
-        
     }
 }
