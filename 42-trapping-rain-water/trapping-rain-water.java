@@ -16,6 +16,5 @@ class Solution {
             ans+=Math.min(left[i],right[i])-arr[i];
         }
         return ans;
-        
     }
 }
