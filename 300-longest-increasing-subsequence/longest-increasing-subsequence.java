@@ -29,3 +29,4 @@ class Solution {
         return lcs(nums,num1);
     }
 }
+// https://youtu.be/Xq3hlMvhrkE?si=VUIU3MOOIvspkwYF take help
